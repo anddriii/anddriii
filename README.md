@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/rF30YDKZ/Dagashi-Kashi.gif"  />
+</div>
+
+###
 <h1 align="center">Hi 👋, I'm Andri Setiawan</h1>
 <h3 align="center">I'm a Full Stack Developer with a passion for building scalable web applications. I love working with Golang on the backend and React TypeScript on the frontend.</h3>
 
@@ -15,3 +20,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anddriii&show_icons=true&locale=en" alt="anddriii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anddriii&" alt="anddriii" /></p>
+
+
+###
+<img src="https://raw.githubusercontent.com/anddriii/anddriii/output/snake.svg" alt="Snake animation" />
+
+###
